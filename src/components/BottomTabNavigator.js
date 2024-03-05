@@ -8,12 +8,12 @@ const Tab = createBottomTabNavigator();
 
 const tabData = [
   {
-    name: 'First',
+    name: 'First Tab',
     index: 0,
     comp: First,
   },
   {
-    name: 'Second',
+    name: 'Second Tab',
     index: 1,
     comp: Second,
   },

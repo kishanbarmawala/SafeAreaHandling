@@ -21,15 +21,15 @@ export default function Second() {
 
 const styles = StyleSheet.create({
   container: {
+    flex: 1,
     alignItems: 'center',
     justifyContent: 'center',
     padding: 24,
   },
   paragraph: {
-    margin: 24,
-    marginTop: 0,
     fontSize: 14,
     fontWeight: 'bold',
     textAlign: 'center',
+    color: 'black'
   },
 });
