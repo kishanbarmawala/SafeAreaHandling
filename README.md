@@ -1,3 +1,7 @@
+iOS Preview 1              | iOS Preview 2             | Android Preview 1         | Android Preview 2
+:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
+![](https://github.com/kishanbarmawala/SafeAreaHandling/blob/main/screenshots/ios-1.png)  |  ![](https://github.com/kishanbarmawala/SafeAreaHandling/blob/main/screenshots/ios-2.png)  |  ![](https://github.com/kishanbarmawala/SafeAreaHandling/blob/main/screenshots/android-1.png)  |  ![](https://github.com/kishanbarmawala/SafeAreaHandling/blob/main/screenshots/android-2.png)
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
